@@ -1,0 +1,66 @@
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\bin\Debug\net7.0\testlinks.exe
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\bin\Debug\net7.0\testlinks.deps.json
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\bin\Debug\net7.0\testlinks.runtimeconfig.json
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\bin\Debug\net7.0\testlinks.dll
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\bin\Debug\net7.0\testlinks.pdb
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\obj\Debug\net7.0\testlinks.csproj.AssemblyReference.cache
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\obj\Debug\net7.0\testlinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\obj\Debug\net7.0\testlinks.AssemblyInfoInputs.cache
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\obj\Debug\net7.0\testlinks.AssemblyInfo.cs
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\obj\Debug\net7.0\testlinks.csproj.CoreCompileInputs.cache
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\obj\Debug\net7.0\testlinks.csproj.CopyComplete
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\obj\Debug\net7.0\testlinks.dll
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\obj\Debug\net7.0\refint\testlinks.dll
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\obj\Debug\net7.0\testlinks.pdb
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\obj\Debug\net7.0\testlinks.genruntimeconfig.cache
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\obj\Debug\net7.0\ref\testlinks.dll
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Samil Quezada Suriel\FUNDA\testlinks\bin\Debug\net7.0\WebDriver.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\bin\Debug\net7.0\testlinks.exe
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\bin\Debug\net7.0\testlinks.deps.json
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\bin\Debug\net7.0\testlinks.runtimeconfig.json
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\bin\Debug\net7.0\testlinks.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\bin\Debug\net7.0\testlinks.pdb
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\bin\Debug\net7.0\WebDriver.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\obj\Debug\net7.0\testlinks.csproj.AssemblyReference.cache
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\obj\Debug\net7.0\testlinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\obj\Debug\net7.0\testlinks.AssemblyInfoInputs.cache
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\obj\Debug\net7.0\testlinks.AssemblyInfo.cs
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\obj\Debug\net7.0\testlinks.csproj.CoreCompileInputs.cache
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\obj\Debug\net7.0\testlinks.csproj.CopyComplete
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\obj\Debug\net7.0\testlinks.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\obj\Debug\net7.0\refint\testlinks.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\obj\Debug\net7.0\testlinks.pdb
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\obj\Debug\net7.0\testlinks.genruntimeconfig.cache
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#\GETTY IMAGES C#\obj\Debug\net7.0\ref\testlinks.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\bin\Debug\net7.0\testlinks.exe
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\bin\Debug\net7.0\testlinks.deps.json
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\bin\Debug\net7.0\testlinks.runtimeconfig.json
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\bin\Debug\net7.0\testlinks.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\bin\Debug\net7.0\testlinks.pdb
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\bin\Debug\net7.0\WebDriver.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\obj\Debug\net7.0\testlinks.csproj.AssemblyReference.cache
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\obj\Debug\net7.0\testlinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\obj\Debug\net7.0\testlinks.AssemblyInfoInputs.cache
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\obj\Debug\net7.0\testlinks.AssemblyInfo.cs
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\obj\Debug\net7.0\testlinks.csproj.CoreCompileInputs.cache
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\obj\Debug\net7.0\testlinks.csproj.CopyComplete
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\obj\Debug\net7.0\testlinks.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\obj\Debug\net7.0\refint\testlinks.dll
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\obj\Debug\net7.0\testlinks.pdb
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\obj\Debug\net7.0\testlinks.genruntimeconfig.cache
+C:\Users\Samil Quezada Suriel\Documents\UNIVERSIDAD ITLA\C#, JAVA, WEB\SCRAPER GETTY IMAGES C#\obj\Debug\net7.0\ref\testlinks.dll
